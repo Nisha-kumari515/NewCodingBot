@@ -1,2 +1,3 @@
 # NewCodingBot
-this is my first reposatory
+this is my first repository
+nisha kumari
