@@ -1,4 +1,4 @@
 # NewCodingBot
-This is my first git repository
+this is my first repository
 <br>
 nisha kumari (uit BU)
